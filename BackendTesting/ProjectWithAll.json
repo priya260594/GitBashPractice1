@@ -1,0 +1,12 @@
+{
+  "projectName" : "HRM_Orange",
+  "projectStatus" : "Created",
+  "teamMembers" : [ "John", "priya", "Devi" ],
+  "pmobj" : [ {
+    "name" : "Reichal",
+    "id" : "TP_01"
+  }, {
+    "name" : "Ravi",
+    "id" : "TP_02"
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "phno" : [ 4534535353, 562624353543 ],
+  "spouse" : {
+    "sp_Name" : "Priya",
+    "sp_Id" : 752,
+    "sp_phNo" : 57567463666
+  },
+  "employeeId" : "TCS_004",
+  "employeeName" : "Mahesh"
+}
